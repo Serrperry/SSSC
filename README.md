@@ -7,3 +7,5 @@
 # Para generar un cambio, hablame por priv.
 # PD: Perdón por los fallos ortograficos.
 # Gracias por pasarte.
+## El Juego de pc : https://github/Serrperry/SSSC-Game-PC.git
+## El Juego en mac : https://github/Serrperry/SSSC-Game-Mac.git
